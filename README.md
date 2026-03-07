@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🧪 Benvenuti nel GreenAlchemyLab
+> *Applicare il rigore del Quality Assurance alla ricerca agronomica.*
 
-<!--
-**GreenAlchemyLab/GreenAlchemyLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono un aspirante innovatore agritech specializzato nel colmare il divario tra i rilievi di campo e l'analisi dei dati avanzata.
 
-Here are some ideas to get you started:
+### 🛰️ Focus Attuale
+* **AI-Powered IPM:** Automazione del monitoraggio entomologico (Bemisia tabaci e Aphidoidea) tramite Prompt Engineering multimodale per l'abbattimento del rumore ambientale.
+* **Stress Abiotico:** Analisi delle risposte fisiologiche in Cucurbita pepo e Solanum lycopersicum tramite indici MPM-100, SPAD e LaquaTwin.
+* **Soil Biochemistry:** Monitoraggio della vitalità microbica funzionale tramite saggi enzimatici (FDA, DHA) e dinamica del carbonio attivo (POXC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** R (Tidyverse, ggplot2, agricolae) per validazione statistica (ANOVA, Tukey HSD).
+* **AI:** LMM-based Computer Vision per la discriminazione tassonomica in contesti biologici.
+* **Hardware:** Integrazione sensori PlantEye 3D, Evja IoT, TrapView e sensoristica Toro AG.
+
+---
+💬 Contattami su [LinkedIn](https://www.linkedin.com/in/gabriele-federici-3b2224245) per collaborazioni su R&D e Digital Agriculture.
