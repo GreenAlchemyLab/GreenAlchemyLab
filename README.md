@@ -12,7 +12,7 @@ Sono un **Maker-Scientist** specializzato nel colmare il divario tra i rilievi d
 #### 👁️ [EntoVision v2.1](https://github.com/GreenAlchemyLab/Monitoraggio-e-andamento-Insetti)
 **AI-Powered IPM Monitoring.** Pipeline di Computer Vision multimodale ottimizzata per la discriminazione tassonomica (*Bemisia tabaci* e *Aphidoidea*).
 * **Signal-to-Noise Optimization:** Algoritmi di soppressione dei riflessi e filtraggio del rumore pedologico/ambientale per massimizzare l'accuratezza del conteggio.
-* **Abbott-Efficacy Analysis:** Integrazione automatizzata in R per la validazione dell'efficacia di strategie integrate (Oikos + BlackJak).
+* **Abbott-Efficacy Analysis:** Integrazione automatizzata in R per la validazione dell'efficacia di strategie integrate (Oikos + BlackJak in ambito della prova sperimentale su Zucchino per Sipcam Italia).
 
 #### 🍅 [Tomato-Expert v3.1](https://github.com/GreenAlchemyLab/-Tomato-Expert-v3.1-Diagnostica-Patologica-Imag...)
 **Pathology & Image Intelligence.** Sistema diagnostico predittivo per *Solanum lycopersicum* basato sull'integrazione di dati IoT (EVJA) e analisi visiva.
