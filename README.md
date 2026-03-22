@@ -29,15 +29,13 @@ Sono un **Maker-Scientist** specializzato nel colmare il divario tra i rilievi d
 Se lo strumento non esiste o è inefficiente, lo progetto e lo costruisco.
 
 * **Prototipazione 3D:** Specializzato in design meccanico e stampa 3D (Anycubic Vyper ottimizzata) per componenti custom e sensoristica IoT.
-* **Precision Hardware:** Padronanza di microscopia e strumentazione da laboratorio di alta fascia; integrazione hardware ESP32 per sensoristica ed automazione su GrowBox
+* **Precision Hardware:** Padronanza di microscopia e strumentazione da laboratorio di alta fascia; integrazione hardware ESP32 per sensoristica ed automazione su GrowBox.
 * **Data Stack:** R (Tidyverse, ggplot2, plotly) per validazione statistica avanzata (ANOVA, Tukey HSD) e reportistica interattiva via Quarto.
 
 ---
 
 ### 🧠 Mindset: Pattern Recognition & Problem Solving
 Individuo schemi in sistemi complessi, dalla falegnameria artigianale alla biometria vegetale. Sono testardo nel perseguire l'eccellenza e non accetto il "si è sempre fatto così": invento sempre il modo migliore per raggiungere il risultato.
-
-📫 [gabriele.federici98@gmail.com](mailto:gabriele.federici98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gabriele-federici-3b2224245)
 
 ---
 💬 Contattami su [LinkedIn](https://www.linkedin.com/in/gabriele-federici-3b2224245) per collaborazioni su R&D e Digital Agriculture.
