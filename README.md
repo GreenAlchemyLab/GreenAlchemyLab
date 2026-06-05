@@ -3,11 +3,11 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/GreenAlchemyLab?style=social)
 
-Sono un **Maker-Scientist** specializzato nel colmare il divario tra i rilievi di campo, la biochimica del suolo e la computer vision. Non mi limito a raccogliere dati: progetto sistemi, ottimizzo hardware e scrivo pipeline di analisi per risolvere problemi complessi dove altri vedono solo rumore.
+Tecnico Sperimentale. Unisco l'agronomia di campo alla Data Science. Qui documento il codice dietro i miei progetti: reti di monitoraggio microclimatico custom, implementazione di modelli AI per la diagnostica fitopatologica (TomatoExpert) ed entomologica (EntoVision), e reportistica riproducibile in R/Quarto.
 
 ---
 
-### 🛰️ Core Projects & Algorithms (Debriefing Operativo)
+### 🛰️ Core Projects & Algorithms
 
 #### 👁️ [EntoVision v2.1](https://github.com/GreenAlchemyLab/Monitoraggio-e-andamento-Insetti)
 **AI-Powered IPM Monitoring.** Pipeline di Computer Vision multimodale ottimizzata per la discriminazione tassonomica (*Bemisia tabaci* e *Aphidoidea*).
